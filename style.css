@@ -1,0 +1,25 @@
+.login-button{
+    background-color: black;
+    color: white;
+    font-size: 14px;
+    padding: 8px 20px;
+    border-radius: 50px;
+    text-decoration: none;
+    transition: 0.3s background-color;
+}
+.login-button:hover{
+    background-color: rgb(78, 78, 94);
+}
+#margin{
+    margin-top: 200px;
+}
+#margin1{
+    margin-top: 350px;
+}
+#radius{
+    border-radius: 20px;
+}
+#but{
+    margin-left: 180px;
+    padding: 10px;
+}
